@@ -402,6 +402,31 @@ body {
     :root{
         --boton-padding: 14px 35px;
     }
+    .subtittle{
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+    }
+    .nav{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 10px;
+    }
+    .nav__items{
+        padding: 0 10px;
+        border: 0;
+    }
+    .hero__text{
+        text-align: center;
+        margin-bottom: 100px;
+    }
+    
+    .hero__tittle{
+        font-size: 2rem;
+    }
+    .presentation__picture{
+        width: 120px;
+        height: 120px;
+    }
     .presentation__copy{
         width: 80%;
     }
